@@ -3,6 +3,7 @@
 *.la
 *.a
 *.lib
+*.gch
 
 # Executables
 *.exe
