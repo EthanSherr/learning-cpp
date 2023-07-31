@@ -3,6 +3,8 @@
 *.la
 *.a
 *.lib
+
+# Precompiled Headers
 *.gch
 
 # Executables
